@@ -1,1 +1,1 @@
-console.log("my project");
+console.log("my projects");
